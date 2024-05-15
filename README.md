@@ -36,4 +36,4 @@ REST (Representational State Transfer) es un estilo de arquitectura para el desa
 
 GraphQL es un lenguaje de consulta y manipulación de datos para APIs, y un entorno de tiempo de ejecución para ejecutar estas consultas con los datos existentes. Aquí hay una representación visual de GraphQL:
 
-![GraphQL Image](diagramasAppDistribuidas/DiagramaGrphQL.jpg)
+![GraphQL Image](diagramasAppDistribuidas/DiagramaGraphQL.jpg)
