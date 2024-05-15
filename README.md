@@ -6,7 +6,7 @@ Este proyecto incluye implementaciones de varias tecnologías de comunicación y
 
 Los Sockets en Java proporcionan una forma para que las aplicaciones se comuniquen entre sí a través de la red. Se utilizan para establecer conexiones de red y permiten la transferencia de datos bidireccional. Aquí hay una representación visual de Sockets:
 
-![Socket Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fadvantages-and-disadvantages-of-java-sockets%2F&psig=AOvVaw1HMYrwONEaN_sEGXc4X87s&ust=1715891030456000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCpzaq-kIYDFQAAAAAdAAAAABAE)
+![Socket Image](diagramasAppDistribuidas/Socket.png)
 
 ## Websockets
 
