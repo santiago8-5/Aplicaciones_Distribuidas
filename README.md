@@ -12,7 +12,7 @@ Los Sockets en Java proporcionan una forma para que las aplicaciones se comuniqu
 
 Los Websockets son una tecnología que proporciona un canal de comunicación bidireccional y de bajo nivel entre el cliente y el servidor sobre un único socket TCP. Esto permite una comunicación más eficiente y en tiempo real entre el cliente y el servidor. Aquí hay una representación visual de Websockets:
 
-![Websocket Image](diagramasAppDistribuidas/Diagrama webSocket.png)
+![Websocket Image](diagramasAppDistribuidas/DiagramawebSocket.png)
 
 ## RMI JDBC
 
